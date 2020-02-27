@@ -1,0 +1,3 @@
+Enter the folder called "50,100" and put the inputs file of size 50 (50 locations) and 100 (100 locations) into the folder called "inputs", then type "python3 main.py" in the terminal, you will get outputs for inputs of size 50 and 100 in the "inputs" folder. 
+
+Enter the folder called "200" and put the inputs file of size 200 (200 locations) into the folder called "inputs", then type "python3 main.py" in the terminal, you will get outputs for inputs of size 200 in the "inputs" folder. 
